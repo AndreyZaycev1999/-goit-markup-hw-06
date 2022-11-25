@@ -289,11 +289,11 @@ body {
 }
 
 .hero__text {
+  text-align: center;
   color: #fff;
   font-weight: 900;
   font-size: 44px;
   line-height: 1.4;
-  text-align: center;
   letter-spacing: 0.06em;
   text-transform: uppercase;
   margin: 0px;
